@@ -1,0 +1,17 @@
+anydesk-bin
+arc-gtk-theme
+auto-cpufreq
+happ-desktop-bin
+ipscan
+lolka-bin
+nbdkit
+nodotify
+paru
+paru-debug
+qdl
+sober-bin
+swaylock-effects
+ubuntu-wallpapers
+wlogout
+xray
+zsh-theme-powerlevel10k-git
